@@ -18,9 +18,3 @@ En este proyecto, se desarrollaron herramientas analíticas para identificar pat
 
 ### ✅ **Objetivo del Proyecto:**
 El objetivo principal fue implementar estrategias basadas en datos para anticipar comportamientos de impago, permitiendo a Bradescard optimizar sus esfuerzos de cobranza y reducir el riesgo financiero.
-
-### 🚀 **Instrucciones de Ejecución:**
-1. Clonar el repositorio:
-   ```bash
-   git clone [enlace del repositorio]
-   cd Optimización_Clientes
